@@ -1,0 +1,9 @@
+[submodule "bazel-remote-apis"]
+	path = proto/bazel-remote-apis
+	url = https://github.com/bazelbuild/remote-apis.git
+[submodule "proto/bazel-remote-apis"]
+	path = proto/bazel-remote-apis
+	url = https://github.com/bazelbuild/remote-apis.git
+[submodule "proto/googleapis"]
+	path = proto/googleapis
+	url = https://github.com/googleapis/googleapis.git
