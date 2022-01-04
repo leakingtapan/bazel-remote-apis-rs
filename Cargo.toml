@@ -2,6 +2,12 @@
 name = "bazel-remote-apis-rs"
 version = "0.1.0"
 edition = "2018"
+description = "Language binding for Bazel remote APIs for Rust"
+authors = ["Cheng Pan <pancheng1987@gmail.com>"]
+license = "MIT"
+homepage = "https://github.com/leakingtapan/bazel-remote-apis-rs"
+repository = "https://github.com/leakingtapan/bazel-remote-apis-rs.git"
+keywords = ["Bazel"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
